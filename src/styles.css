@@ -34,3 +34,6 @@ ul {
   --bs-btn-hover-bg: #79828c;
   font-weight: bold;
 }
+.shadow-custom {
+  box-shadow: 10px 5px 5px #3a366aa3;
+}
